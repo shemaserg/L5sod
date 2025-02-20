@@ -8,7 +8,7 @@ include('includes/dbconnection.php');
 <html lang="en">
   <head>
    
-    <title>Beauty Parlour Management System | Home Page</title>
+    <title>salon Management System | Home Page</title>
 
     <!-- Template CSS -->
     <link rel="stylesheet" href="assets/css/style-starter.css">
